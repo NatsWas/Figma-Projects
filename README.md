@@ -1,5 +1,5 @@
 # Figma-Projects
-A brief description of what this project does and who it's for
+Figma projects tailored for Sumina Studer, a violinist seeking collaboration with a graphic illustrator.
 ## Table of Contents
 -[Installation](#installation)
 -[Usage](#usage)
